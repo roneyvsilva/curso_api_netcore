@@ -13,6 +13,5 @@ namespace Api.Data.Context
         {
             base.OnModelCreating(modelBuilder);
         }
-
     }
 }
